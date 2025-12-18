@@ -1,4 +1,4 @@
 # PL-groupProject
 
 [專題說明影片](https://youtu.be/59H8cgIding)<br>
-[專題介紹Repo]()
+[專題介紹Repo](https://youtu.be/PTb0DENZDbk?si=LZaojzYIy6WOkKqA)
